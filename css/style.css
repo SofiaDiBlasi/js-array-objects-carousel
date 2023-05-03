@@ -1,0 +1,30 @@
+#contenitore{
+    display: flex;
+    width: 1700px;
+    height: 600px;
+}
+
+.contenitoreG{
+    width: 1400px;
+    height: 600px;
+}
+
+.contenitoreP{
+    width: 300px;
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+}
+
+.dimensioni {
+    width: 300px;
+    height: 150px;
+}
+
+.testo{
+    color: white;
+}
+
+.none{
+    display: none;
+}
