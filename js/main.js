@@ -1,3 +1,5 @@
+//devo creare funzioni da richiamare per evitare ripetizioni, ma ero stanca =( 
+
 const images = [
     {
         image: 'img/01.webp',
